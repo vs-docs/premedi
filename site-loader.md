@@ -2,7 +2,7 @@
 
 ### Loader HTML Code {#loader-html-code}
 
-The below code can be found in all HTML pages that are included with the theme. code will be placed from 45th to 47th line of each page.
+The below code can be found in all HTML pages that are included with the theme. code will be placed from 45th to 48th line of each page.
 
 ```markup
 <div class="loader">
