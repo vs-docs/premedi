@@ -2,7 +2,7 @@
 description: Creative HTML Template
 ---
 
-# Premedi
+# PreMedi
 
 > * **Item Name:**  Premedi  Creative HTML Template
 > * **Item Version:  V1.0**

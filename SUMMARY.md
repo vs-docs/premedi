@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Premedi](README.md)
+* [PreMedi](README.md)
 * [Introduction](introduction.md)
 * [Assets Used](untitled.md)
 * [Fonts](fonts.md)
